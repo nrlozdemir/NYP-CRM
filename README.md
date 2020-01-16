@@ -1,5 +1,7 @@
 # NYP-CRM
 
+![Giriş ekranı fotoğraf](screenshots/login-screen.png.jpg?raw=true 'Giriş Ekranı')
+
 ## Veritabanı konfigürasyonu aşağıdaki gibi olmalıdır.
 
 ```
@@ -9,4 +11,11 @@ Kullanıcı: root
 Şifre:
 (Şifre kullanılmamıştır.)
 
+```
+
+## Kullanıcı adı ve şifre:
+
+```
+admin
+password
 ```
