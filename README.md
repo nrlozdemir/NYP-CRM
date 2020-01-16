@@ -1,6 +1,7 @@
 # NYP-CRM
 
 ![Giriş ekranı fotoğraf](screenshots/login-screen.jpg)
+![Ürünler fotoğraf](screenshots/products.jpg)
 
 ## Veritabanı konfigürasyonu aşağıdaki gibi olmalıdır.
 
