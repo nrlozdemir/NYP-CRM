@@ -27,7 +27,7 @@ CREATE TABLE `login` (
 
 
 INSERT INTO `login` (`username`, `password`) VALUES
-('nurullah', '123456');
+('admin', 'password');
 
 
 CREATE TABLE `products` (
